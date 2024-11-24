@@ -1,4 +1,10 @@
-# Supermarket Array Application
+[![Link Bio](https://img.shields.io/badge/Link%20Bio-59d959?style=for-the-badge&logo=about.me&logoColor=white)](https://santosqa.github.io) [![About](https://img.shields.io/badge/About.me-993399?style=for-the-badge&logo=about.me&logoColor=white)](https://about.me/santosqa) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santosqa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosqa) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santosqa_/) [![Santos QA](https://img.shields.io/badge/SantosQA.COM-BD93F9?style=for-the-badge&logo=twitter&logoColor=white)](https://santosqa.com/) [![Apartamento Vista Mar](https://img.shields.io/badge/ApartamentoVistaMar.com-FFB86C?style=for-the-badge&logo=twitter&logoColor=white)](https://www.apartamentovistamar.com/)
+
+
+---
+
+# 💻 Projeto
+### Supermarket Array Application
 
 Esta aplicação é um exemplo simples de gerenciamento de um supermercado utilizando um array fixo para armazenar itens. Ela permite adicionar, visualizar e excluir itens do array. A implementação inclui uma interface `Supermarket` e uma classe concreta `SupermarketArray`, além de uma classe principal `Main` para interação com o usuário.
 
@@ -55,5 +61,10 @@ java Main
 
 ### Sair
 - Encerra a aplicação.
+
+- 
+---
+
+Feito com ♥ por Ricardo Santos QA :wave: [about.me/santosqa](https://about.me/santosqa)
 
 
